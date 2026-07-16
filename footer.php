@@ -76,7 +76,7 @@
       <!-- BRAND -->
       <div class="col-lg-4">
         <div class="footer-brand">
-          <h3>Viza Bridge Global</h3>
+          <h3>Vistara Visa</h3>
           <p>
             A trusted visa, immigration & global mobility consultancy helping
             individuals and families move forward with clarity, compliance,
@@ -142,7 +142,7 @@
 
   <!-- BOTTOM -->
   <div class="footer-bottom-premium">
-    © 2025 <strong>Viza Bridge Global</strong>. All Rights Reserved.
+    © 2025 <strong>Vistara Visa</strong>. All Rights Reserved.
   </div>
 </footer>
 

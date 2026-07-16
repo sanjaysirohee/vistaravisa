@@ -48,10 +48,10 @@ include('header.php');
                             </div>
                             <div class="service__details-content">
                                 <h3 class="title mb-15">Hassle-Free Flight Booking for Your Global Journey</h3>
-                                <p class="mb-30">At Viza Bridge Global, we provide reliable and affordable air ticket booking services to make your travel smooth and stress-free. Whether you are traveling for a visa appointment, studies, work, business, or leisure, we ensure the best flight options tailored to your schedule and budget.</p>
+                                <p class="mb-30">At Vistara Visa, we provide reliable and affordable air ticket booking services to make your travel smooth and stress-free. Whether you are traveling for a visa appointment, studies, work, business, or leisure, we ensure the best flight options tailored to your schedule and budget.</p>
                                 
                                 
-                                <p style="text-align:jusify;">At Viza Bridge Global, we provide efficient and cost-effective air ticket booking services for domestic and international travel. Our team assists travelers in securing the best flight routes, schedules, and fares, ensuring a smooth journey from departure to arrival.
+                                <p style="text-align:jusify;">At Vistara Visa, we provide efficient and cost-effective air ticket booking services for domestic and international travel. Our team assists travelers in securing the best flight routes, schedules, and fares, ensuring a smooth journey from departure to arrival.
 
 We understand that flight bookings often need flexibility due to visa approvals, academic schedules, or business commitments. That’s why we focus on accurate planning, timely booking, and reliable airline options tailored to your travel needs.</p>
                                 <b>Our Air Ticket Booking Includes:</b>

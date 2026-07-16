@@ -48,13 +48,13 @@ include('header.php');
                             </div>
                             <div class="service__details-content">
                                 <h3 class="title mb-15">Expert Assistance for Every Type of Visa</h3>
-                                <p class="mb-30" style="text-align:justify;">At Viza Bridge Global, we provide complete visa assistance with accurate guidance, transparent processes, and personalized support. Our experienced consultants ensure your application meets all country-specific requirements, reducing delays and increasing approval chances.</p>
+                                <p class="mb-30" style="text-align:justify;">At Vistara Visa, we provide complete visa assistance with accurate guidance, transparent processes, and personalized support. Our experienced consultants ensure your application meets all country-specific requirements, reducing delays and increasing approval chances.</p>
                                 
                                 <p style="text-align:justify;">Canada is globally recognized for its high-quality education system and world-class universities. With internationally accepted degrees, affordable education, and excellent post-study opportunities, Canada remains one of the top destinations for international students, including thousands of Indian students every year.
 
 To pursue academic, professional, or vocational education in Canada, international students must obtain a Canada Student Visa, officially known as a Study Permit.
 
-At Viza Bridge Global, we provide end-to-end guidance for students aspiring to study in Canada—right from course selection to visa approval.</p>
+At Vistara Visa, we provide end-to-end guidance for students aspiring to study in Canada—right from course selection to visa approval.</p>
 <b>What Is a Canada Study Permit?</b>
 <p style="text-align:justify;">A Study Permit allows international students to study at a Designated Learning Institution (DLI) in Canada. This permit is issued upon arrival in Canada, after verification by border officials.
 

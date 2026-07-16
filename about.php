@@ -71,11 +71,11 @@ include('header.php');
                         </div>
                         <div class="col-xl-6">
                             <div class="section__title">
-                                <span class="sub-title text-anim">About Viza Bridge Global</span>
+                                <span class="sub-title text-anim">About Vistara Visa</span>
                                 <h2 class="title text-anim2">Immigration Services From Experienced Agents
                                 </h2>
                             </div>
-                            <p class="mt-30 mb-40" style="text-align:justify;"> At Viza Bridge Global, we are passionate about helping individuals and families achieve their dreams of living, studying, or exploring abroad. With years of experience in the immigration industry, we have established ourselves as a trusted and reliable partner for all your immigration needs.
+                            <p class="mt-30 mb-40" style="text-align:justify;"> At Vistara Visa, we are passionate about helping individuals and families achieve their dreams of living, studying, or exploring abroad. With years of experience in the immigration industry, we have established ourselves as a trusted and reliable partner for all your immigration needs.
 
 </p>
                             <div class="checklist-wrap">
@@ -296,13 +296,13 @@ include('header.php');
                         <div class="col-xl-8 col-lg-9">
                             <div class="section__title text-center mb-0">
                                 <!--<span class="sub-title text-anim">Our EXPERTISE</span>-->
-                                <h2 class="title text-anim2">Why  <span class="text-theme">Viza Bridge Global</span></h2>
+                                <h2 class="title text-anim2">Why  <span class="text-theme">Vistara Visa</span></h2>
                             </div>
                            
                         </div>
                         
                         <div class="col-md-12 mb-20">
-                             <p style="text-align:center;">Viza Bridge Global is among the most trusted immigration and visa consultants in Noida and Delhi NCR, known for guiding clients with expert insight, precision, and dependable support. Our experience is rigorous, detailed, and built on real case success, allowing us to deliver services that align closely with your goals.</p>
+                             <p style="text-align:center;">Vistara Visa is among the most trusted immigration and visa consultants in Noida and Delhi NCR, known for guiding clients with expert insight, precision, and dependable support. Our experience is rigorous, detailed, and built on real case success, allowing us to deliver services that align closely with your goals.</p>
                         </div>
                     </div>
                 <div class="row gy-30 justify-content-center">

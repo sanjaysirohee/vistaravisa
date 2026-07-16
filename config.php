@@ -1,6 +1,6 @@
 <?php
 // config.php
-$SITE_NAME    = "Viza Bridge Global";
+$SITE_NAME    = "Vistara Visa";
 $SITE_PHONE   = "+91-7304552649";
 $SITE_EMAIL   = "info@vizabridgeglobal.com";
 $SITE_ADDRESS = "Sector 63, Noida, UP";

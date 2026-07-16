@@ -198,7 +198,7 @@ Feature Area
                             <a href="#">Travel & Partner Support Services</a>
                         </h3>
                         <p class="box-text">
-                            Along with visa assistance, we offer air ticket booking, hotel arrangements, and partnership opportunities—making Viza Bridge Global your complete global mobility partner.
+                            Along with visa assistance, we offer air ticket booking, hotel arrangements, and partnership opportunities—making Vistara Visa your complete global mobility partner.
                         </p>
                     </div>
                 </div>
@@ -237,7 +237,7 @@ Feature Area
                                 <h2 class="title text-anim2">Guiding You Through Every Step of Your Global Journey
                                 </h2>
                             </div>
-                            <p class="mt-30 mb-30">At Viza Bridge Global, we understand that studying, working, or settling abroad is more than a process it’s a life-changing decision. Our mission is to make this journey clear, secure, and stress-free through expert guidance and personalized support.</p>
+                            <p class="mt-30 mb-30">At Vistara Visa, we understand that studying, working, or settling abroad is more than a process it’s a life-changing decision. Our mission is to make this journey clear, secure, and stress-free through expert guidance and personalized support.</p>
                             <div class="about-grid-card">
                                 <div class="box-icon">
                                     <svg width="50" height="51" viewBox="0 0 50 51" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -309,9 +309,9 @@ Feature Area
                         </div>
                         
                         <div class="col-md-12">
-                             <p style="text-align:center;">Viza Bridge Global is a trusted and result-driven immigration consultancy based in Noida, Uttar Pradesh, offering expert guidance for Australia & Canada immigration, PR visas, tourist visas, and other global visa solutions. We proudly serve clients across Noida, Delhi NCR, and nearby regions, helping individuals and families achieve their international travel and migration goals with confidence.
+                             <p style="text-align:center;">Vistara Visa is a trusted and result-driven immigration consultancy based in Noida, Uttar Pradesh, offering expert guidance for Australia & Canada immigration, PR visas, tourist visas, and other global visa solutions. We proudly serve clients across Noida, Delhi NCR, and nearby regions, helping individuals and families achieve their international travel and migration goals with confidence.
 
-At Viza Bridge Global, we believe immigration is more than just documentation—it’s a life-changing journey. Our accessibility, transparent communication, and personalized approach ensure that every client receives in-depth guidance tailored to their profile and aspirations. From the first consultation to final visa approval, we provide a seamless and engaging experience.</p>
+At Vistara Visa, we believe immigration is more than just documentation—it’s a life-changing journey. Our accessibility, transparent communication, and personalized approach ensure that every client receives in-depth guidance tailored to their profile and aspirations. From the first consultation to final visa approval, we provide a seamless and engaging experience.</p>
                         </div>
                     </div>
                     <div class="row gy-30 justify-content-center">
@@ -464,10 +464,10 @@ At Viza Bridge Global, we believe immigration is more than just documentation—
             <div class="col-xl-9 col-lg-10">
                 <div class="section__title text-center mb-30">
                     <h2 class="title text-anim2">
-                        Why <span class="text-theme">Viza Bridge Global</span>
+                        Why <span class="text-theme">Vistara Visa</span>
                     </h2>
                     <p class="mt-15 text-center">
-                        Viza Bridge Global is among the most trusted immigration and visa consultants in Noida and Delhi NCR, known for expert insight, precision, and dependable support. Our experience is built on real case success and a client-first approach.
+                        Vistara Visa is among the most trusted immigration and visa consultants in Noida and Delhi NCR, known for expert insight, precision, and dependable support. Our experience is built on real case success and a client-first approach.
                     </p>
                 </div>
             </div>
@@ -956,10 +956,10 @@ At Viza Bridge Global, we believe immigration is more than just documentation—
                     <div class="row justify-content-center align-items-center">
                         <div class="col-xl-7 col-lg-8">
                             <div class="section__title text-center">
-                                <span class="sub-title text-white text-anim">Viza Bridge provide the best service</span>
+                                <span class="sub-title text-white text-anim">Vistara Visa provide the best service</span>
                                 <h2 class="title text-white text-anim2">We Provide The Best Way To<br> Success Your Migration
                                 </h2>
-                                <p style="color:#fff; position:relative;">At Viza Bridge, we believe in making your dreams of starting a new life abroad a reality. Our comprehensive range of services, combined with our commitment to excellence, ensures a seamless and stress-free experience. Contact us today and take the first step towards your new adventure.
+                                <p style="color:#fff; position:relative;">At Vistara Visa, we believe in making your dreams of starting a new life abroad a reality. Our comprehensive range of services, combined with our commitment to excellence, ensures a seamless and stress-free experience. Contact us today and take the first step towards your new adventure.
 </p>
                                 <div class="tg-button-wrap mt-40 justify-content-center">
                                     <a href="contact.php" class="btn btn-seven">
@@ -1023,12 +1023,12 @@ At Viza Bridge Global, we believe immigration is more than just documentation—
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="testimonial-card2">
-                                        <p class="testi-text">"Viza Bridge Global made my tourist visa process completely stress-free. Their team guided me at every step and handled all the documentation professionally. Highly recommended!”</p>
+                                        <p class="testi-text">"Vistara Visa made my tourist visa process completely stress-free. Their team guided me at every step and handled all the documentation professionally. Highly recommended!”</p>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="testimonial-card2">
-                                        <p class="testi-text">"I applied for a student visa through Viza Bridge Global and got excellent support throughout the process. The consultants were knowledgeable, transparent, and always available to help.”</p>
+                                        <p class="testi-text">"I applied for a student visa through Vistara Visa and got excellent support throughout the process. The consultants were knowledgeable, transparent, and always available to help.”</p>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">

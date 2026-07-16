@@ -48,14 +48,14 @@ include('header.php');
                             </div>
                             <div class="service__details-content">
                                 <h3 class="title mb-15">Trusted Guidance for Long-Term Global Settlement</h3>
-                                <p class="mb-30">At Viza Bridge Global, we provide expert immigration services for individuals and families planning to live, work, or settle abroad. Our consultants guide you through complex immigration rules with clarity, accuracy, and complete transparency.</p>
+                                <p class="mb-30">At Vistara Visa, we provide expert immigration services for individuals and families planning to live, work, or settle abroad. Our consultants guide you through complex immigration rules with clarity, accuracy, and complete transparency.</p>
                                 
                                 
                                 
                                 
                                 <p style="text-align:justify;">Australia is one of the most preferred travel destinations for vacations, family visits, and short-term business activities. If you are planning to visit Australia for tourism or personal purposes, you must apply for an Australia Tourist Visa (Subclass 600).
 
-At Viza Bridge Global, we provide expert guidance to help you successfully apply for an Australia Tourist Visa, ensuring accuracy, compliance, and timely processing.</p>
+At Vistara Visa, we provide expert guidance to help you successfully apply for an Australia Tourist Visa, ensuring accuracy, compliance, and timely processing.</p>
 <b>What Activities Are Allowed on an Australia Tourist Visa?</b>
 <p style="text-align:justify;">The Subclass 600 – Visitor Visa allows you to visit Australia for the following purposes:</p>
 

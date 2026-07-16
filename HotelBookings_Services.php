@@ -48,9 +48,9 @@ include('header.php');
                             </div>
                             <div class="service__details-content">
                                 <h3 class="title mb-15">Comfortable & Verified Stays Wherever You Go</h3>
-                                <p class="mb-30">At Viza Bridge Global, we offer reliable hotel booking services to ensure your stay abroad is safe, comfortable, and hassle-free. Whether you are traveling for visa purposes, studies, work, business, or leisure, we help you find the right accommodation that fits your needs and budget.</p>
+                                <p class="mb-30">At Vistara Visa, we offer reliable hotel booking services to ensure your stay abroad is safe, comfortable, and hassle-free. Whether you are traveling for visa purposes, studies, work, business, or leisure, we help you find the right accommodation that fits your needs and budget.</p>
                                 
-                                <p style="text-align:justify;">Viza Bridge Global offers trusted hotel booking services designed to provide comfort, safety, and convenience for travelers across India and abroad. We help you select accommodations that match your budget, location preference, and length of stay.
+                                <p style="text-align:justify;">Vistara Visa offers trusted hotel booking services designed to provide comfort, safety, and convenience for travelers across India and abroad. We help you select accommodations that match your budget, location preference, and length of stay.
 
 Whether you require accommodation near an airport, university, business district, or tourist destination, our team ensures you receive verified and dependable hotel options.</p>
 <b>Our Hotel Booking Assistance Covers:</b>

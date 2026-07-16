@@ -54,10 +54,10 @@ include('header.php');
                         <div class="col-xl-7">
                             <div class="section__title">
                                 <span class="sub-title text-anim">Become a Partner</span>
-                                <h2 class="title text-anim2">Grow Your Business with Viza Bridge Global
+                                <h2 class="title text-anim2">Grow Your Business with Vistara Visa
                                 </h2>
                             </div>
-                            <p class="mt-30 mb-40" style="text-align:justify;">Partner with Viza Bridge Global and become part of a trusted global visa, immigration, and travel services network. We believe in building strong, long-term partnerships that create mutual growth, credibility, and success. If you are a consultant, travel agent, education advisor, or business professional, partnering with us gives you access to expert support, reliable processes, and strong service credibility.</p>
+                            <p class="mt-30 mb-40" style="text-align:justify;">Partner with Vistara Visa and become part of a trusted global visa, immigration, and travel services network. We believe in building strong, long-term partnerships that create mutual growth, credibility, and success. If you are a consultant, travel agent, education advisor, or business professional, partnering with us gives you access to expert support, reliable processes, and strong service credibility.</p>
                             <div class="about-grid-wrap">
                                 <div class="about-grid-card style2">
                                     <div class="box-icon">
@@ -119,7 +119,7 @@ include('header.php');
                     <div class="col-xl-8 col-lg-10">
                         <div class="section__title text-center mb-50">
                             <span class="sub-title text-anim">Why Choose Us</span>
-                            <h2 class="title text-anim2">Why Partner with Viza Bridge Global?
+                            <h2 class="title text-anim2">Why Partner with Vistara Visa?
 </h2>
                         </div>
                     </div>
