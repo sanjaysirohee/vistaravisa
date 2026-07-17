@@ -115,7 +115,7 @@
             </li>
             <li>
               <i class="fas fa-envelope"></i>
-              <span>email@vistaravisa.in</span>
+              <span>info@vistaravisa.in</span>
             </li>
             <li>
               <i class="fas fa-map-marker-alt"></i>

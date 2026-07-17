@@ -107,7 +107,7 @@
                                         </div>
                                         <div class="info-card_content">
                                             <p class="info-card_text">Email Us Here</p>
-                                            <a href="mailto:email@vistaravisa.in" class="info-card_link">email@vistaravisa.in</a>
+                                            <a href="mailto:info@vistaravisa.in" class="info-card_link">info@vistaravisa.in</a>
                                         </div>
                                     </div>
                                     <div class="info-card">
@@ -188,7 +188,7 @@
                 <div class="tgmobile__menu-bottom">
                     <div class="contact-info">
                         <ul class="list-wrap">
-                            <li>Mail: <a href="mailto:email@vistaravisa.in">email@vistaravisa.in</a></li>
+                            <li>Mail: <a href="mailto:info@vistaravisa.in">info@vistaravisa.in</a></li>
                             <li>Phone: <a href="tel:7304552649">7304552649</a></li>
                         </ul>
                     </div>
