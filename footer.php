@@ -115,7 +115,7 @@
             </li>
             <li>
               <i class="fas fa-envelope"></i>
-              <span>info@vizabridgeglobal.com</span>
+              <span>email@vistaravisa.in</span>
             </li>
             <li>
               <i class="fas fa-map-marker-alt"></i>

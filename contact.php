@@ -118,7 +118,7 @@ include('header.php');
 
                 <div class="contact-direct mt-25">
                     <p><strong>Call:</strong> +91-7304552649</p>
-                    <p><strong>Email:</strong> info@vizabridgeglobal.com</p>
+                    <p><strong>Email:</strong> email@vistaravisa.in</p>
                 </div>
             </div>
 
