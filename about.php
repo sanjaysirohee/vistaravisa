@@ -75,9 +75,7 @@ include('header.php');
                                 <h2 class="title text-anim2">Immigration Services From Experienced Agents
                                 </h2>
                             </div>
-                            <p class="mt-30 mb-40" style="text-align:justify;"> At Vistara Visa, we are passionate about helping individuals and families achieve their dreams of living, studying, or exploring abroad. With years of experience in the immigration industry, we have established ourselves as a trusted and reliable partner for all your immigration needs.
-
-</p>
+                            <p class="mt-30 mb-40" style="text-align:justify;"> At Vistara Visa, we are passionate about helping individuals and families achieve their dreams of living, studying, or exploring abroad. With years of experience in the immigration industry, we have established ourselves as a trusted and reliable partner for all your immigration needs.</p>
                             <div class="checklist-wrap">
                                 <ul class="list-wrap">
                                     <li>
@@ -114,6 +112,33 @@ include('header.php');
                                 </ul>
                             </div>
                             <div class="cta-link">Call to ask any question <a href="tel:+91-7304552649">+91-7304552649</a></div>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!--==Document Section==-->
+        <section >
+            <div class="container">
+                <div class="section__title text-center mb-100">
+                            <span class="sub-title text-anim">Documents</span>
+                            <h2 class="title text-anim2">Official Documents</h2>
+</h2>
+                        </div>
+                <div class="about-wrap2">
+                    <div class="row gx-60 gy-5 align-items-center">
+                        <div class="col-xl-6 text-center">
+                            <div class="about-thumb2-1 ">
+                                <h4 class="title text-anim4 "><a href="./doc/VISTARA VISA MSME.pdf" target="_blank">VISTARA VISA MSME</a></h4>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 text-center">
+                            <div class="about-thumb2-1 ">
+                                <h4 class="title text-anim4 text-center"><a href="./doc/AA090626231389T_RC30062026.pdf.pdf" target="_blank">AA090626231389T_RC30062026</a></h4>
+                            </div>
                            
                         </div>
                     </div>
