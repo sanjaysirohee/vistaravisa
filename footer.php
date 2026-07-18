@@ -111,7 +111,7 @@
           <ul class="footer-contact-list">
             <li>
               <i class="fas fa-phone"></i>
-              <span>+91-7304552649</span>
+              <span>+91 89763 27998</span>
             </li>
             <li>
               <i class="fas fa-envelope"></i>
@@ -120,7 +120,7 @@
             <li>
               <i class="fas fa-map-marker-alt"></i>
               <span>
-                B-02, H-112, Sector 63,<br>Noida, Uttar Pradesh
+                B-02, H-119, First floor, Sector 63,<br>Noida, Uttar Pradesh
               </span>
             </li>
           </ul>
@@ -131,7 +131,7 @@
       <div class="col-lg-3">
         <div class="footer-map-box">
           <iframe
-            src="https://www.google.com/maps?q=B-02,H-112,Sector%2063,Noida,UP&output=embed"
+            src="https://www.google.com/maps?q=B-02,H-119, First floor,Sector%2063,Noida,UP&output=embed"
             loading="lazy">
           </iframe>
         </div>
@@ -175,13 +175,13 @@
   <a href="tel:0012341234">
   <button class="btn-floating phone">
     <img src="https://i.imgur.com/FZuns9L.png" alt="Phone">
-    <span>+91-7304552649</span>
+    <span>+91 89763 27998</span>
   </button>
 </a>
 <a href="https://api.whatsapp.com/send?phone=9211867821" target="_blank">
   <button class="btn-floating whatsapp">
     <img src="https://i.imgur.com/LBW2Lso.png" alt="WhatsApp">
-    <span>+91-7304552649</span>
+    <span>+91 89763 27998</span>
   </button>
 </a>
     

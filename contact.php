@@ -117,7 +117,7 @@ include('header.php');
                 </ul>
 
                 <div class="contact-direct mt-25">
-                    <p><strong>Call:</strong> +91-7304552649</p>
+                    <p><strong>Call:</strong> +91 89763 27998</p>
                     <p><strong>Email:</strong> info@vistaravisa.in</p>
                 </div>
             </div>
@@ -155,7 +155,7 @@ include('header.php');
 <!-- ================= Map ================= -->
 <section class="contact-map">
 <iframe
-  src="https://www.google.com/maps?q=B-02,H-112,Sector%2063,Noida,UP&output=embed"
+  src="https://www.google.com/maps?q=B-02,H-119, First floor,Sector%2063,Noida,UP&output=embed"
   width="100%" height="380" style="border:0;" loading="lazy">
 </iframe>
 </section>

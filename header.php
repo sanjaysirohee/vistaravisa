@@ -98,7 +98,7 @@
                                         </div>
                                         <div class="info-card_content">
                                             <p class="info-card_text">Phone Number</p>
-                                            <a href="tel:+7304552649" class="info-card_link">+91-7304552649</a>
+                                            <a href="tel:+918976327998" class="info-card_link">+91 89763 27998</a>
                                         </div>
                                     </div>
                                     <div class="info-card">
@@ -189,7 +189,7 @@
                     <div class="contact-info">
                         <ul class="list-wrap">
                             <li>Mail: <a href="mailto:info@vistaravisa.in">info@vistaravisa.in</a></li>
-                            <li>Phone: <a href="tel:7304552649">7304552649</a></li>
+                            <li>Phone: <a href="tel:+918976327998">+91 89763 27998</a></li>
                         </ul>
                     </div>
                     <div class="social-links">
