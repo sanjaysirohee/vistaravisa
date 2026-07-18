@@ -101,7 +101,7 @@ include('header.php');
                                                 <!--<div class="title3" data-ani="slideinup" data-ani-delay="0.4s">Enterprise</div>-->
                                             </h1>
                                             <div class="tg-button-wrap" data-ani="slideinup" data-ani-delay="0.5s">
-                                                <a href="ccontact.php" class="btn btn-three">
+                                                <a href="contact.php" class="btn btn-three">
                                                     <span class="btn-text" data-text="Get Consultant"></span>
                                                 </a>
                                                 <a href="service.php" class="btn btn-four">
