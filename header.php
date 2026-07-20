@@ -5,11 +5,19 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Vistara Visa</title>
-    <meta name="description" content="Vistara Visa">
+    <meta name="keywords" content="Best Visa service in Noida, Best Visa service near me, Best Visa service in UP, Best Visa service in Uttar Pradesh, Best and Afforable Visa Services">
+    <meta name="description" content="Vistara Visa is a trusted and result-driven immigration consultancy based in Noida, Uttar Pradesh, offering expert guidance for Australia & Canada immigration, PR visas, tourist visas, and other global visa solutions.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/vbg-favicon.png">
     <!-- Place favicon.ico in the root directory -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:title" content="Vistara Visa">
+    <meta property="og:site_name" content="vistara visa">
+    <meta property="og:url" content="https://vistaravisa.in/">
+    <meta property="og:description" content="vistaravisa.in">
+    <meta property="og:type" content="website">
+	<meta property="og:image" content="https://vistaravisa.in/assets/img/ogimage.png">
 
     <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
